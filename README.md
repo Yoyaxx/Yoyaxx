@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working for [Cerbonix](https://manager.cerbonix.net)
 
-- 🌱 I’m currently working on [Studio Yoyax](https://studiyoyax.com)
+- 🌱 I’m currently working on [Studio Yoyax](https://studioyoyax.com)
 
 - 📫 How to reach me **yoyax@frstud.fr**
 
